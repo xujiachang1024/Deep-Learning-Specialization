@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deaeaf97-4c2e-4e84-8011-bb6e07f1cacc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#4 Convolutional Neural Networks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#5 Sequence Models/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,6 +71,11 @@
               <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
               <item name="#4 Convolutional Neural Networks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
+              <item name="#5 Sequence Models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
