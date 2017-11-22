@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="deaeaf97-4c2e-4e84-8011-bb6e07f1cacc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#5 Sequence Models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/Logistic_Regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/examples/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,6 +13,22 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Logistic_Regression.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/Logistic_Regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +39,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/Logistic_Regression.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -60,22 +85,14 @@
             <path>
               <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="#2 Improving Deep Neural Networks" type="462c0819:PsiDirectoryNode" />
+              <item name="#1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="#3 Structuring Machine Learning Projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="#4 Convolutional Neural Networks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
-              <item name="#5 Sequence Models" type="462c0819:PsiDirectoryNode" />
+              <item name="#1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,8 +132,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -142,5 +160,17 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/Logistic_Regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
