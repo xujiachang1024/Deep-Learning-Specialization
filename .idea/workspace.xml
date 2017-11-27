@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deaeaf97-4c2e-4e84-8011-bb6e07f1cacc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/#1c Shallow Neural Nets/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/#1d Deep Neural Nets/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#2 Improving Deep Neural Networks/#2a Practical Deep Learning/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#2 Improving Deep Neural Networks/#2b Optimization Algorithms/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#2 Improving Deep Neural Networks/#2c Hyperparameter Tuning/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#3 Structuring Machine Learning Projects/#3a ML Strategy I/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#3 Structuring Machine Learning Projects/#3b ML Strategy II/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#4 Convolutional Neural Networks/#4a Intro to CNN/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#4 Convolutional Neural Networks/#4b CNN Case Studies/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#4 Convolutional Neural Networks/#4c Object Detection/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#4 Convolutional Neural Networks/#4d Special Applications/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/Logistic_Regression.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/assignments/__init__.py" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/#1a Intro to Deep Learning/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/examples/__init__.py" afterPath="$PROJECT_DIR$/#1 Neural Networks and Deep Learning/#1b Neural Nets Basics/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="deaeaf97-4c2e-4e84-8011-bb6e07f1cacc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +65,12 @@
               <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
               <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
               <item name="#1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deep-Learning-Specialization" type="462c0819:PsiDirectoryNode" />
+              <item name="#1 Neural Networks and Deep Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="#1a Intro to Deep Learning" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Deep-Learning-Specialization" type="b2602c69:ProjectViewProjectNode" />
