@@ -13,3 +13,6 @@ In this course, you will learn the foundations of deep learning. When you finish
 * Week 2: Neural Networks Basics
 * Week 3: Shallow Neural Networks
 * Week 4: Deep Neural Networks
+
+### File Directory:
+* *Logistic_Regression.ipynb*: implementation of a logistic regression model with the gradient descent optimization method
