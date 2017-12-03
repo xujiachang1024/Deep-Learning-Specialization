@@ -15,7 +15,7 @@ In this course, you will learn the foundations of deep learning. When you finish
 * Week 4: Deep Neural Networks
 
 ### File Directory:
-* *Logistic_Regression.ipynb*: implementation of a logistic regression model with the gradient descent optimization method using the Numpy library
+* *Logistic_Regression.ipynb*: implementation of a logistic regression model with the gradient descent optimization method using the Numpy library to vectorize the layers of neurons
 * *2Layer_NN.ipynb*: 
 * *DNN_Framework.ipynb*: 
 * *DNN_Application.ipynb*: 
