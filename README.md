@@ -10,3 +10,6 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 * Course 3: Structuring Machine Learning Projects
 * Course 4: Convolutional Neural Networks
 * Course 5: Sequence Models
+
+### Shortcuts:
+* <a href="https://github.com/xujiachang1024/Deep-Learning-Specialization/blob/master/%232%20Improving%20Deep%20NN/DNN_TensorFlow.ipynb">TensorFlow Tutorial</a>
